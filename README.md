@@ -830,6 +830,8 @@ pipeline {
 
 ![Alt text](<Screenshots/iScreen Shoter - Safari - 231018140322.png>)
 
+![Alt text](<Screenshots/iScreen Shoter - Safari - 231018141204.png>)
+
 ![Alt text](<Screenshots/iScreen Shoter - Safari - 231018140647.png>)
 
 
